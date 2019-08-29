@@ -1,0 +1,14 @@
+{
+  "libros": [
+    {
+      "nombre": "Aprendiendo Redux Hooks",
+      "precio": "80",
+      "id": 3
+    },
+    {
+      "nombre": "JavaScript avanzado",
+      "precio": "36",
+      "id": 4
+    }
+  ]
+}
