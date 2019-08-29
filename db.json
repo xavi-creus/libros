@@ -2,7 +2,7 @@
   "libros": [
     {
       "nombre": "Aprendiendo Redux Hooks",
-      "precio": "80",
+      "precio": "75",
       "id": 3
     },
     {
